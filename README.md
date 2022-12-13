@@ -11,8 +11,9 @@
 ### Step 6: Open the time graph and adjust the y-axis so the bouncing ball animation looks smoother. 
 
 # Output:
+
 Youtube :- https://youtu.be/-TT1f0mWG_4
-![](bounce.png)
+![image](bounce.png)
 
 
 # Result:
