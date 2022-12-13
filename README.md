@@ -11,8 +11,9 @@
 ## Step 6: Open the time graph and adjust the y-axis so the bouncing ball animation looks smoother. 
 
 # Output
-## Youtube :- https://github.com/Aswini-J/Bouncing-Ball-Animation-Using-Maya/tree/main
-![image](b.png)
+## Youtube :- https://youtu.be/-TT1f0mWG_4
+![](bounce.png)
+
 
 # Result
 ## Therefore a bouncing ball animation is created using Maya. 
