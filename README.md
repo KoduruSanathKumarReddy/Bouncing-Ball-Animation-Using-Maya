@@ -13,7 +13,7 @@
 # Output:
 
 
-![image](bounce.png)
+
 
 Youtube :- https://youtu.be/-TT1f0mWG_4
 
