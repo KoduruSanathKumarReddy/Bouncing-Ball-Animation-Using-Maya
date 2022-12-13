@@ -12,7 +12,7 @@
 
 # Output
 ## Youtube :- https://github.com/Aswini-J/Bouncing-Ball-Animation-Using-Maya/tree/main
-![](b.png)
+![image](b.png)
 
 # Result
 ## Therefore a bouncing ball animation is created using Maya. 
