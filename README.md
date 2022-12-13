@@ -1,6 +1,6 @@
 # Bouncing-Ball-Animation-Using-Maya
 # Aim
-To make a bouncing ball animation using Maya. 
+## To make a bouncing ball animation using Maya. 
 
 # Procedure
 ## Step 1: Create a solid sphere and size it as required. 
@@ -15,5 +15,5 @@ To make a bouncing ball animation using Maya.
 ![](Bounce.png)
 
 # Result
-Therefore a bouncing ball animation is created using Maya. 
+## Therefore a bouncing ball animation is created using Maya. 
 
